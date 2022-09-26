@@ -15,7 +15,7 @@ Através dele, é possível analisar a performance geral da companhia durante to
 
 ## 2. Dashboard de Orçamento
 
-Como exercício, fiz um dashboard utilizando um dataset diferente de orçamento para a empresa fictícia da série de jogos Resident Evil, Umbrella Corporations.
+Como exercício, fiz um dashboard utilizando um dataset de orçamento para a empresa fictícia da série de jogos Resident Evil, Umbrella Corporation.
 
 ![image](https://user-images.githubusercontent.com/114424453/192332853-3d06af53-f96e-4537-a193-109aa8e837d2.png)
 

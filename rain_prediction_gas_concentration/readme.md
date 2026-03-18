@@ -1,4 +1,13 @@
-This project was a freelance project taken from Workana. We were given atmospheric gas concentrations in HDF format and were tasked with
-predicting whether it would rain or not with the historical data available. To do this, the requester asked us to compare three forecasting
-methods (Support Vector Machines, Naive Bayes and Logistic Regression) and pick the best one. He also wanted us to plot confusion matrixes
-and other graphs. This was all done on October 2022, before ChatGPT's launch.
+## Freelance Machine Learning Project (Workana) — Rain Prediction from Atmospheric Gas Data
+
+This freelance project involved developing a machine learning pipeline to predict rainfall using atmospheric gas concentration data provided in **HDF format**. Historical gas measurements were processed and used to train predictive models that classify whether it would rain on a given day.
+
+Three classification algorithms were implemented and compared:
+
+- Support Vector Machines (SVM)
+- Naive Bayes
+- Logistic Regression
+
+The models were evaluated using **confusion matrices and accuracy metrics**, allowing the client to identify the most effective forecasting method for the dataset.
+
+This project was completed in **October 2022**, prior to the release of ChatGPT, and required independent development of the full data processing and model evaluation pipeline.
